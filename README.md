@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Hani H O 👋
 
-<!--
-**hani-h-o/hani-h-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Python and Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building AI-powered applications and learning modern software development technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Technical Skills
+
+- **Languages:** Python, C, SQL, HTML, CSS, JavaScript
+- **Frameworks:** Django, Flask, React.js
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Tkinter
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Eclipse, Jupyter Notebook
+- **ERP:** Oracle Cloud ERP
+
+---
+
+## Featured Project
+
+### ChronoGuardian – Eternal Watch
+
+AI-powered Network Intrusion Detection System (NIDS) using Machine Learning.
+
+### Key Features
+
+- Detects cyber attacks using Machine Learning
+- Classifies Normal, DoS, Probe, R2L and U2R attacks
+- Real-time monitoring simulation
+- Tkinter Desktop GUI
+- Uses NSL-KDD dataset
+- Built with Scikit-learn and XGBoost
+
+🔗 **Project Repository**
+
+https://github.com/hani-h-o/Chrono-Guardian-Eternal-Watch
+
+---
+
+## 📫 Contact
+
+📧 Email: hanihhani03@gmail.com
+
+📍 Bengaluru, Karnataka, India
